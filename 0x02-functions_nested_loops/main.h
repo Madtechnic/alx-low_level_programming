@@ -1,5 +1,9 @@
 #ifndef main_h
 	#define main_h
+/**
+ * file=main.h
+ * description:File containing functions declaration
+ */
 
 
 	int _putchar(char);
