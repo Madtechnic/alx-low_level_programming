@@ -1,9 +1,16 @@
-	/**
-         * main - print _putchar
-         * is written by Tony
-         * Return: 0
-         */
+/*
+ * File: 0-putchar.c
+ * Auth: Tony
+ *
+ */
+
 #include "main.h"
+
+/**
+ * main - Prints "_putchar" followed by a new line.
+ *
+ * Return: Always 0.
+ */
 	int main(void)
 	{
 	_putchar('_');
