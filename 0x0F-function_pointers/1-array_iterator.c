@@ -19,3 +19,5 @@ while (size-- > 0)
 action(*array);
 array++;
 }
+
+}
