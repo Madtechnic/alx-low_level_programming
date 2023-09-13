@@ -25,3 +25,10 @@ if (cmp(array[index]) != 0)
 return (index);
 }
 
+return (-1);
+
+}
+
+return (-1);
+
+}
